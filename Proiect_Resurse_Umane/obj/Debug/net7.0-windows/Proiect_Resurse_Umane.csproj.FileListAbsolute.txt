@@ -1,0 +1,17 @@
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\bin\Debug\net7.0-windows\Proiect_Resurse_Umane.exe
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\bin\Debug\net7.0-windows\Proiect_Resurse_Umane.deps.json
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\bin\Debug\net7.0-windows\Proiect_Resurse_Umane.runtimeconfig.json
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\bin\Debug\net7.0-windows\Proiect_Resurse_Umane.dll
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\bin\Debug\net7.0-windows\Proiect_Resurse_Umane.pdb
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\Proiect_Resurse_Umane.csproj.AssemblyReference.cache
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\Proiect_Resurse_Umane.Form1.resources
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\Proiect_Resurse_Umane.csproj.GenerateResource.cache
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\Proiect_Resurse_Umane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\Proiect_Resurse_Umane.AssemblyInfoInputs.cache
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\Proiect_Resurse_Umane.AssemblyInfo.cs
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\Proiect_Resurse_Umane.csproj.CoreCompileInputs.cache
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\Proiect_Resurse_Umane.dll
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\refint\Proiect_Resurse_Umane.dll
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\Proiect_Resurse_Umane.pdb
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\Proiect_Resurse_Umane.genruntimeconfig.cache
+C:\Users\TheLegend27\Desktop\Proiect PAW\Proiect_Resurse_Umane\Proiect_Resurse_Umane\obj\Debug\net7.0-windows\ref\Proiect_Resurse_Umane.dll
