@@ -1,0 +1,86 @@
+C:\Users\Edi\Desktop\Productie\bin\Debug\Productie.exe.config
+C:\Users\Edi\Desktop\Productie\bin\Debug\Productie.exe
+C:\Users\Edi\Desktop\Productie\bin\Debug\Productie.pdb
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.csprojAssemblyReference.cache
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Form1.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Properties.Resources.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.csproj.GenerateResource.cache
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.exe
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.pdb
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.time.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Register.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Login.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Form2.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Detalii.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Comanda.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Comenzi.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Form3.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Form4.resources
+C:\Users\Edi\Desktop\Productie\obj\Debug\Productie.Form5.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\bin\Debug\Productie.exe.config
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\bin\Debug\Productie.exe
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\bin\Debug\Productie.pdb
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.csprojAssemblyReference.cache
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Comanda.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Comenzi.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Detalii.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Form1.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Form2.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Form3.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Form4.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Form5.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Login.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Properties.Resources.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.time.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.Register.resources
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.csproj.GenerateResource.cache
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.csproj.CoreCompileInputs.cache
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.exe
+C:\Users\Edi\Desktop\Proiect_PAW_Cristescu_Eduard_Alexandru\obj\Debug\Productie.pdb
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\bin\Debug\Productie.exe.config
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\bin\Debug\Productie.exe
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\bin\Debug\Productie.pdb
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.csproj.AssemblyReference.cache
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Comanda.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Comenzi.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Detalii.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Form1.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Form2.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Form3.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Form4.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Form5.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Login.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Properties.Resources.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.time.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Register.resources
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.csproj.GenerateResource.cache
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.exe
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.pdb
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\bin\Debug\InchiriereCasete.accdb
+C:\Users\Eduard\OneDrive\Desktop\Project.NET-main\C# Production Management\obj\Debug\Productie.Form6.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.csproj.AssemblyReference.cache
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Form6.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Comanda.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Comenzi.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Detalii.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Form1.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Form2.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Form3.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Form4.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Form5.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Login.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Properties.Resources.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.time.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.Register.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.csproj.GenerateResource.cache
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.csproj.CoreCompileInputs.cache
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\bin\Debug\GestiuneHR.accdb
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\bin\Debug\InchiriereCasete.accdb
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\bin\Debug\Productie.exe.config
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\bin\Debug\Productie.exe
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\bin\Debug\Productie.pdb
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.exe
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\Debug\Productie.pdb

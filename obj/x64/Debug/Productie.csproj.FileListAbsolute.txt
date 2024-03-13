@@ -1,0 +1,70 @@
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\bin\x64\Debug\GestiuneHR.accdb
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\bin\x64\Debug\InchiriereCasete.accdb
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\bin\x64\Debug\Productie.exe.config
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\bin\x64\Debug\Productie.exe
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\bin\x64\Debug\Productie.pdb
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.csproj.AssemblyReference.cache
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Form6.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Comanda.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Comenzi.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Detalii.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Form1.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Form2.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Form3.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Form4.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Form5.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Login.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Properties.Resources.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.time.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.Register.resources
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.csproj.GenerateResource.cache
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.csproj.CoreCompileInputs.cache
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.exe
+C:\Users\TheLegend27\Desktop\Proiect Rece Cristian Dumitru\C# Production Management\obj\x64\Debug\Productie.pdb
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.csproj.AssemblyReference.cache
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.Detalii.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.Login.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.Properties.Resources.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.time.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.Register.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.csproj.GenerateResource.cache
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.csproj.CoreCompileInputs.cache
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\bin\x64\Debug\GestiuneHR.accdb
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\bin\x64\Debug\Productie.exe.config
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\bin\x64\Debug\Productie.exe
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\bin\x64\Debug\Productie.pdb
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.exe
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.pdb
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.IntroduPozitie.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.Formulare.GestiuneAplicatii.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.Main.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.Aplicant.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.Admin.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.Feedback.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.GestionarePozitii.resources
+C:\Users\TheLegend27\Desktop\C_Production_Management\C# Production Management\obj\x64\Debug\Productie.AplicarePozitie.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\bin\x64\Debug\GestiuneHR.accdb
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\bin\x64\Debug\Productie.exe.config
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\bin\x64\Debug\Productie.exe
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\bin\x64\Debug\Productie.pdb
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.csproj.AssemblyReference.cache
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.IntroduPozitie.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.Formulare.GestiuneAplicatii.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.AplicarePozitie.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.GestionarePozitii.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.Detalii.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.Main.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.Aplicant.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.Admin.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.Feedback.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.Login.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.Properties.Resources.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.time.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.Register.resources
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.csproj.GenerateResource.cache
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.csproj.CoreCompileInputs.cache
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.exe
+C:\Users\TheLegend27\Desktop\1059_Rece_Cristian\Proiect Resurse Umane\obj\x64\Debug\Productie.pdb
